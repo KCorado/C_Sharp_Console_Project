@@ -1,0 +1,11 @@
+/Users/kevincorado/Documents/Kevin/Projects/2020_05/C_Sharp_Console_Project/bin/Debug/netcoreapp2.1/C_Sharp_Console_Project.deps.json
+/Users/kevincorado/Documents/Kevin/Projects/2020_05/C_Sharp_Console_Project/bin/Debug/netcoreapp2.1/C_Sharp_Console_Project.runtimeconfig.json
+/Users/kevincorado/Documents/Kevin/Projects/2020_05/C_Sharp_Console_Project/bin/Debug/netcoreapp2.1/C_Sharp_Console_Project.runtimeconfig.dev.json
+/Users/kevincorado/Documents/Kevin/Projects/2020_05/C_Sharp_Console_Project/bin/Debug/netcoreapp2.1/C_Sharp_Console_Project.dll
+/Users/kevincorado/Documents/Kevin/Projects/2020_05/C_Sharp_Console_Project/bin/Debug/netcoreapp2.1/C_Sharp_Console_Project.pdb
+/Users/kevincorado/Documents/Kevin/Projects/2020_05/C_Sharp_Console_Project/obj/Debug/netcoreapp2.1/C_Sharp_Console_Project.csprojAssemblyReference.cache
+/Users/kevincorado/Documents/Kevin/Projects/2020_05/C_Sharp_Console_Project/obj/Debug/netcoreapp2.1/C_Sharp_Console_Project.csproj.CoreCompileInputs.cache
+/Users/kevincorado/Documents/Kevin/Projects/2020_05/C_Sharp_Console_Project/obj/Debug/netcoreapp2.1/C_Sharp_Console_Project.AssemblyInfoInputs.cache
+/Users/kevincorado/Documents/Kevin/Projects/2020_05/C_Sharp_Console_Project/obj/Debug/netcoreapp2.1/C_Sharp_Console_Project.AssemblyInfo.cs
+/Users/kevincorado/Documents/Kevin/Projects/2020_05/C_Sharp_Console_Project/obj/Debug/netcoreapp2.1/C_Sharp_Console_Project.dll
+/Users/kevincorado/Documents/Kevin/Projects/2020_05/C_Sharp_Console_Project/obj/Debug/netcoreapp2.1/C_Sharp_Console_Project.pdb
